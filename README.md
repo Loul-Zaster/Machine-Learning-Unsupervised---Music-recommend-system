@@ -1,4 +1,4 @@
-Music Recommendation System
+# Music Recommendation System
 1. Introduction
 Music recommendation systems have become an essential feature in modern music streaming platforms, enhancing user experience by suggesting relevant songs based on listening history, preferences, and various content-based features. This project leverages machine learning techniques, particularly deep learning and similarity measures, to develop a content-based music recommendation system. The system incorporates pre-trained models for image feature extraction and similarity computations to recommend songs effectively.
 The recommendation engine utilizes Spotify's API to fetch metadata, including album cover images, which are processed using a convolutional neural network (CNN). A precomputed similarity matrix helps determine the most relevant song recommendations based on the selected input.
